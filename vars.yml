@@ -1,5 +1,5 @@
 git_repo_uri: https://github.com/appalrpivotal/cf-mgmt
-system_domain: api.run.cloud.zwickey.net
+system_domain: run.cloud.zwickey.net
 user_id: admin
 password: AzPaUOIyK56wNtyfIYEAdABxJtXZj7-L
 client_secret: Q-msRSPLSizztuyHwAhKda9B6CPtNrxW
